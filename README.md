@@ -2,11 +2,7 @@
 
 > A Next.js application configured with Typescript, ESLint, Prettier, and more.
 
-![](.github/images/github-explorer-v1.png)
-
----
-
-![](.github/images/github-explorer-v2.png)
+![](.github/images/boilerplate-nextjs-v1.png)
 
 # Getting Started
 
