@@ -1,36 +1,36 @@
 # Boilerplate | Next.js with TS
 
-> A Next.js application configured with Typescript, ESLint, Prettier, and more.
+A Next.js application configured with Typescript, ESLint, Prettier, and more.
+
+## Demo
 
 ![](.github/images/boilerplate-nextjs-v1.png)
 
-# Getting Started
+## Get Started
 
 Follow the steps below to properly run this application.
 
-### `1. git clone <repository_url>`
+#### Clone the repository:
 
-Clone the repository using the following command: <br />
-`git clone https://github.com/gasscoelho/boilerplate-nextjs-typescript.git`
+```bash
+git clone https://github.com/gasscoelho/boilerplate-nextjs-typescript.git
+```
 
-After that, you can open the project using an editor of your preference.
+```bash
+cd boilerplate-nextjs-typescript
+```
 
----
+#### Start the application:
 
-### `2. yarn`
+```bash
+yarn install
+```
 
-Install the project dependencies.
+```bash
+yarn start
+```
 
-If you are using NPM then run `npm install`
-
----
-
-### `3. yarn dev`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-If you are using NPM then run `npm dev`
+*You can also use NPM instead of YARN to install the dependencies and start the application.*
 
 ## Built With
 
@@ -41,4 +41,4 @@ If you are using NPM then run `npm dev`
 
 ## Author
 
-**Gabriel Coelho** - Full Stack Developer
+**[Gabriel Coelho](https://gasscoelho.me/en)** - Software Engineer
